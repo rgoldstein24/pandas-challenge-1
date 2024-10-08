@@ -1,1 +1,1 @@
-# pandas-challenge-1
+In this challenge, we'll dive into a dataset from a fictional e-commerce company, exploring and analyzing data to address real-world business questions. Your mission will involve identifying top customers, popular product categories, calculating profits, and more.
